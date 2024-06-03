@@ -70,3 +70,5 @@ Overall number of sellers were around 3095.
 
 
 So, instead of entirely removing sellers from Olists, we should focus on removing the specific products that receive bad review scores, rather than removing the entire seller. This approach allows us to retain good sellers who may excel at certain product categories, while addressing the problematic products that are driving up review costs and losses.
+
+For any information regarding code, please refer to the olist and Olist_Presentation.ipynb
